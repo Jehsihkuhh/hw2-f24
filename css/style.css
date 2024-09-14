@@ -2,58 +2,58 @@ body {
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
-    margin: 20 px 20 px 0;
+    margin: 20px 20px 0;
 }
 
 h1 {
-    font-size: 42 px;
+    font-size: 42px;
     text-align: center;
-    padding: 15 px;
+    padding: 15px;
 }
 
 h2 {
-    font-size: 30 px;
+    font-size: 30px;
     color: #0D0D0D;
 }
 
 p {
-    font-size: 24 px;
-    padding: 10 px 0 px 0 px 10 px; 
+    font-size: 24px;
+    padding: 10px 0px 0px 10px; 
 }
 
 img {
-    width: 250 px;
+    width: 250px;
     display: block;
     margin: auto;
-    border: 10 px dashed #ffffff;
+    border: 10px dashed #ffffff;
 }
 
 div {
-    min-height: 125 px;
-    padding: 20 px;
-    border: 3 px solid #ffffff;
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #ffffff;
 }
 
 .introduction {
-    border-radius: 15 px;
-    margin-top: 15 px;
+    border-radius: 15px;
+    margin-top: 15px;
     line-height: 2;
 }
 
 .red {
     background-color: #ff0000;
     text-align: right;
-    margin-left: 50 px;
-    border-bottom: 2 px solid #ffffff;
-    border-left: 5 px solid #ffffff;
+    margin-left: 50px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
-    margin-right: 50 px;
-    border-top: 2 px solid #ffffff;
-    border-right: 5 px solid #ffffff;
+    margin-right: 50px;
+    border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
 }
 
 .blue h1 {
@@ -67,9 +67,9 @@ div {
 .yellow {
     background-color: #FFFF00;
     text-align: right;
-    margin-left: 50 px;
-    border-bottom: 2 px solid #ffffff;
-    border-left: 5 px solid #ffffff;
+    margin-left: 50px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
 }
 
 .yellow p{
@@ -79,18 +79,18 @@ div {
 .green {
     background-color: #008500;
     text-align: left;
-    margin-right: 50 px;
-    border-top: 2 px solid #ffffff;
-    border-right: 5 px solid #ffffff;
+    margin-right: 50px;
+    border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
 }
 
 footer {
-    background: linear-gradient (right, #000000, #0000ff 25 %, #0066ff 70 %, #000000);
-    border: 5 px solid white;
+    background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
+    border: 5px solid white;
 }
 
 footer p {
-    font-size: 20 px;
+    font-size: 20px;
     text-align: right;
-    padding: 15 px 15 px 15 px 0 px;
+    padding: 15px 15px 15px 0px;
 }
